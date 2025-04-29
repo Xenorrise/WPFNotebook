@@ -1,0 +1,15 @@
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\bin\Debug\WPFNotebook.exe.config
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\bin\Debug\WPFNotebook.exe
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\bin\Debug\WPFNotebook.pdb
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.csproj.AssemblyReference.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\MainWindow.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\App.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook_MarkupCompile.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook_MarkupCompile.lref
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\MainWindow.baml
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.g.resources
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.Properties.Resources.resources
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.csproj.GenerateResource.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.csproj.CoreCompileInputs.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.exe
+D:\IT\Projects\MS_VisualStudio_Projects\WPFNotebook\WPFNotebook\obj\Debug\WPFNotebook.pdb

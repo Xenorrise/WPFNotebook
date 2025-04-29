@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFNotebook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFNotebook"
+        mc:Ignorable="d"
+        Title="Блокнот" Height="450" Width="400"
+        KeyDown="Window_KeyDown">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="NewFile_Click" InputGestureText="Ctrl+N"/>
+                <MenuItem Header="_Open" Click="OpenFile_Click" InputGestureText="Ctrl+O"/>
+                <MenuItem Header="_Save" Click="SaveFile_Click" InputGestureText="Ctrl+S"/>
+            </MenuItem>
+        </Menu>
+        <TextBox Name="MainTextBox" AcceptsReturn="True" AcceptsTab="True"
+                 VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"
+                 TextWrapping="Wrap" FontSize="14" />
+    </DockPanel>
+</Window>
